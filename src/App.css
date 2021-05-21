@@ -1,8 +1,14 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
+/* body{ */
+  /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGzJCCAGRW_IBsR7Xr57_b9K3-eSwFd1E8Rg&usqp=CAU'); */
+  /* background-size: cover; */
+/* } */
+
+/* .App { */
+  /* text-align: center; */
+/* } */
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -12,7 +18,8 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+*/
+/* 
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +42,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
