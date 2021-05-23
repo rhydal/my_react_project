@@ -7,6 +7,7 @@ import {BrowserRouter,Route,Switch} from 'react-router-dom'
 import Watches from './Watches';
 import Phone from './Phone';
 import BootstrapNavbar from './BootstrapNavbar';
+import AppComp from './Assignment2/AppComp';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
           <Route exact path="/" component ={ Home} />
           <Route path="/Phone" component={Phone}/>
           <Route path="/Watches" component={Watches}/>
+          <Route path='./Assignment2' component={AppComp}/>
           <Route render={()=><h1>404: page not found</h1>}/>
         </Switch>
 
